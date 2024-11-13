@@ -1,1 +1,1 @@
-# verus-via-termux
+# script
