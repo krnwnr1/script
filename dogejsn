@@ -1,0 +1,18 @@
+{
+  "autosave": true ✓,
+  "cpu": true ✓,
+  "opencl": false ✕,
+  "cuda": false ✕,
+  "pools": [
+    {
+      "coin": "monero",
+      "algo": "rx/0",
+      "url": "rx-asia.unmineable.com:3333",
+      "user": "DOGE:DHSM5hxteMT6kAtu27prK72iFUnsUHsuku.INDODAX,
+      "pass": "x",
+      "tls": false ✕,
+      "keepalive": true ✓,
+      "nicehash": false ✕
+    }
+  ]
+ }
